@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/aliquam-veritatis-id-minima",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -162,5 +162,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/aliquam-veritatis-id-minima/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
